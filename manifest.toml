@@ -5,7 +5,7 @@ name = "GLPI"
 description.en = "IT Asset Management"
 description.fr = "Gestion des services informatiques (ITSM)"
 
-version = "11.0.4~ynh1"
+version = "11.0.5~ynh1"
 
 maintainers = []
 
